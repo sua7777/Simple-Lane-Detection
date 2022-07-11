@@ -23,7 +23,7 @@ I have modified draw_lines function as follows
 1. Used VideoFileClip for reading the video.
 2. Used fl_image to read and process the data Frame by Frame using process_image function.
 
-<a href="https://youtu.be/eB6Nlvnuago">Click this to see the result on video</a>
+<a href="https://www.youtube.com/watch?v=-zFxAN-Uc8s">Click this to see the result on video</a>
 
 
 ### 2. potential shortcomings with my current pipeline
